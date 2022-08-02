@@ -11,9 +11,6 @@
     <title>Second_World_Cup</title>
 </head>
 <body>
-----------------------------------------
-------------header_section---------------
------------------------------------------
     <div class="heading_section">
         <div class="heading">
             <div class="heading_text"> 
@@ -26,9 +23,6 @@
             </div>
         </div>
     </div>
-----------------------------------------
-------------upcoming_match--------------
-----------------------------------------
     <div class="upcoming_match">
         <div class="match_scheduel">
             <div class="link">
@@ -101,9 +95,6 @@
             <button class="view">View</button>
         </div>
     </div>
-----------------------------------------
-------------footer_section--------------
-----------------------------------------
     <footer class="footer">
         <h1>Goal</h1>
         <br>
